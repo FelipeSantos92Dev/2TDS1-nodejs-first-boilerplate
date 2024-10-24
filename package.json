@@ -1,0 +1,26 @@
+{
+  "name": "2tds1-nodejs-first-boilerplate",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeSantos92Dev/2TDS1-nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Boilerplate",
+    "SENAI",
+    "Back-end",
+    "Dev"
+  ],
+  "author": "Felipe Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeSantos92Dev/2TDS1-nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/FelipeSantos92Dev/2TDS1-nodejs-first-boilerplate#readme"
+}
