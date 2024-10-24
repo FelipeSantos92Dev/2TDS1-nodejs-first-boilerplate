@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/FelipeSantos92Dev/2TDS1-nodejs-first-boilerplate/issues"
   },
-  "homepage": "https://github.com/FelipeSantos92Dev/2TDS1-nodejs-first-boilerplate#readme"
+  "homepage": "https://github.com/FelipeSantos92Dev/2TDS1-nodejs-first-boilerplate#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
 }
